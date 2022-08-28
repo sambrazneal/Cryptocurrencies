@@ -1,6 +1,7 @@
 # Cryptocurrencies
 
 ## Project Overview
+In this challenge we are using unsupervised machine learning to process cryptocurrency data. 
 
 ## Results
 
